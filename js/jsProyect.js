@@ -21,6 +21,5 @@ class Agendapp {
 	}
 }
 
-coleccionCont.push( new Agendapp("Jose Manuel Montaño Saenz", "Mz D casa 21, Tolima grande", "2666744") )
-
+backUp()
 mostrarData()

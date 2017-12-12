@@ -6,6 +6,8 @@ body {
 	margin: 0;
 	height: 100%;
 	font-size: 20px;	
+	padding-top: 50px;
+	background: radial-gradient(#155263 , #000000);
 }
 
 label {
@@ -48,7 +50,6 @@ h1 {
 .con-padre {
 	background: #155263;
 	border: 4px solid #FF9A3C;
-	margin-top: 50px;
 	border-radius: 10px;
 }
 
