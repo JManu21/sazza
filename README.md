@@ -8,7 +8,7 @@ Agendapp es una aplicacion web que guarda en localStorange tu info, lo que te pe
 Solo debes agregar tu contacto y listo, puedes agregar todos los contactos que quieras
 
 ## Link
-https://jmanu21.github.io/SAZZA/
+https://jmanu21.github.io/sazza/
 
 ## Creditos
 
