@@ -1,8 +1,8 @@
 # SAZZA
-Aplicación web donde puedes guardar tus contactos.
+Aplicación web que busca simplificar tu vida.
 
 ## Descripcion
-Sazza es una aplicacion web que guarda la info de tus contactos, dandote acceso las veces que desees.
+Sazza es una aplicacion web que guarda la info de tus contactos dandote acceso las veces que desees.
 
 ## ¿Como empezar?
 Solo debes agregar tu contacto y listo, puedes agregar todos los contactos que quieras.
