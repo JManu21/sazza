@@ -1,14 +1,14 @@
-# Agendapp
-Aplicación web donde puedes guardar tus contactos 
+# SAZZA
+Aplicación web que busca simplificar tu vida.
 
 ## Descripcion
-Agendapp es una aplicacion web que guarda en localStorange tu info, lo que te permite acceder a los datos las veces que desees
+Sazza es una aplicacion web que guarda la info de tus contactos dandote acceso las veces que desees.
 
 ## ¿Como empezar?
-Solo debes agregar tu contacto y listo, puedes agregar todos los contactos que quieras
+Solo debes agregar tu contacto y listo, puedes agregar todos los contactos que quieras.
 
 ## Link
-https://jmanu21.github.io/Agendapp/
+https://jmanu21.github.io/sazza/
 
 ## Creditos
 
