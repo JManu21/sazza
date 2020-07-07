@@ -8,7 +8,7 @@ Sazza es una aplicacion web que guarda la info de tus contactos dandote acceso l
 Solo debes agregar tu contacto y listo, puedes agregar todos los contactos que quieras.
 
 ## Link
-https://jmanu21.github.io/sazza/
+https://jmontanos.github.io/sazza/
 
 ## Creditos
 
